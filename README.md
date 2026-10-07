@@ -2,7 +2,7 @@
 
 **Find good. Do good.**
 
-### 👉 [**Try it live → nweinberg97.github.io/Search-for-the-Good**](https://nweinberg97.github.io/Search-for-the-Good/)
+[View the prototype](https://nweinberg97.github.io/Search-for-the-Good/)
 
 A search engine for the people, products, brands, and projects making the world better.
 
