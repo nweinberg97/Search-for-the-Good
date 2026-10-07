@@ -2,6 +2,8 @@
 
 **Find good. Do good.**
 
+### 👉 [**Try it live → nweinberg97.github.io/Search-for-the-Good**](https://nweinberg97.github.io/Search-for-the-Good/)
+
 A search engine for the people, products, brands, and projects making the world better.
 
 Search engines optimize for ads. Feeds optimize for outrage. The news optimizes for what went wrong. Search for the Good is built for the opposite: a beautiful place to search specifically for the good stuff — and keep finding more.
@@ -44,7 +46,7 @@ You can also just double-click `index.html`.
 
 ### Deploy to GitHub Pages
 
-The included workflow (`.github/workflows/pages.yml`) publishes the repo root on every push to `main`. In the repo's **Settings → Pages**, set **Source** to **GitHub Actions**. The site will be at `https://<user>.github.io/search-for-the-good/`.
+The included workflow (`.github/workflows/pages.yml`) publishes the repo root on every push to `main`. In the repo's **Settings → Pages**, set **Source** to **GitHub Actions**. The live site is at **[nweinberg97.github.io/Search-for-the-Good](https://nweinberg97.github.io/Search-for-the-Good/)**.
 
 ---
 
